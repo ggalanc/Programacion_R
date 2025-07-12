@@ -45,5 +45,4 @@ https://github.com/ggalanc/Programacion_R/blob/main/Catedra_1/student_habits_per
 ## Autor
 
 Gerardo Galán y Mabel Herrera
-[🔗 GitHub](https://github.com/ggalanc)  
 Magíster en Data Science, UDLA
